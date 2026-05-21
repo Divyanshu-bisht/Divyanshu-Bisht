@@ -72,7 +72,7 @@
 
 ## 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 <p align="center">
